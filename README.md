@@ -72,7 +72,7 @@ You should be familiar with:
 
 4. **An RCS-enabled Mobile Device**
 
-Don't worry if you don't haev one. We've got you covered!
+Don't worry if you don't have one. We've got you covered!
 
 ---
 
